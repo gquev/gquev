@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**germanquevedo/germanquevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy German :)
 
-Here are some ideas to get you started:
+## Acerca de mí
+Soy estudiante de Ingeniería Electrónica especializado en Internet de las Cosas (IoT). Actualmente, estoy trabajando en mi tesis sobre Machine Learning en una Raspberry Pi. Me apasiona la innovacion, tecnología y tengo un interés particular en la Inteligencia Artificial y el Diseño Web (front-end).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+- **Tesis de Grado: Machine Learning en Raspberry Pi**
+  - Descripción: Investigación sobre la implementación de algoritmos de machine learning en dispositivos de bajo costo para aplicaciones IoT.
+  - Tecnologías: Python, OpenCV, Raspberry Pi, MQTT.
+
+## Cursos Recientes
+- **Inteligencia Artificial**
+  - Descripción: IBM Machine Learning Professional Certificate.
+  - Plataforma: [Coursera]
+
+- **Diseño Web (Front-end)**
+  - Descripción: ONE - Oracle Next Education
+  - Plataforma: [Alura - LATAM]
+
+## Skills
+- **Lenguajes de Programación:** Python, JavaScript
+- **Frameworks y Bibliotecas:** TensorFlow, Scikit-learn,  OpenCV, React.js
+- **Herramientas:** Raspberry Pi, Git
+
+
+  
+
