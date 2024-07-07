@@ -1,6 +1,7 @@
 ## 👋 Hello 🌎, I'm German!
 
-## About Me
+## About Me ![image](https://github.com/germanquevedo/germanquevedo/assets/127355727/4a7ec433-a61e-4cc7-9a29-1e0c5d15adc3)
+
 
 I am a student of Electronic Engineering specialized in Internet of Things (IoT). Currently, I am working on my thesis on Machine Learning on a Raspberry Pi. I'm passionate about innovation and technology. I have a particular interest in Artificial Intelligence and Front-end Web Design. In my free time, I enjoy learning, traveling, and climbing. 💡✈️🧗‍♀️
 
