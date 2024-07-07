@@ -1,28 +1,27 @@
-## Hi there 👋
+## 👋 Hello 🌎, I'm German!
 
-# ¡Hola! Soy German :)
+## About Me
 
-## Acerca de mí
-Soy estudiante de Ingeniería Electrónica especializado en Internet de las Cosas (IoT). Actualmente, estoy trabajando en mi tesis sobre Machine Learning en una Raspberry Pi. Me apasiona la innovacion, la tecnología y tengo un interés particular en la Inteligencia Artificial y el Diseño Web (front-end).
+I am a student of Electronic Engineering specialized in Internet of Things (IoT). Currently, I am working on my thesis on Machine Learning on a Raspberry Pi. I'm passionate about innovation and technology. I have a particular interest in Artificial Intelligence and Front-end Web Design. In my free time, I enjoy learning, traveling, and climbing. 💡✈️🧗‍♀️
 
-## Proyectos Destacados
-- **Tesis de Grado: Machine Learning en Raspberry Pi**
-  - Descripción: Investigación sobre la implementación de algoritmos de machine learning en dispositivos de bajo costo para aplicaciones IoT.
-  - Tecnologías: Python, OpenCV, Raspberry Pi, MQTT.
+## Featured Projects
+- **Thesis Project: Machine Learning on Raspberry Pi**
+  - Description: Research on implementing machine learning algorithms on low-cost devices for IoT applications.
+  - Technologies: Python, OpenCV, Raspberry Pi, MQTT.
 
-## Cursos Recientes
-- **Inteligencia Artificial**
-  - Descripción: IBM Machine Learning Professional Certificate.
-  - Plataforma: [Coursera]
+## Recent Courses
+- **Artificial Intelligence**
+  - Description: IBM Machine Learning Professional Certificate.
+  - Platform: [Coursera]
 
-- **Diseño Web (Front-end)**
-  - Descripción: ONE - Oracle Next Education
-  - Plataforma: [Alura - LATAM]
+- **Front-end Web Design**
+  - Description: ONE - Oracle Next Education
+  - Platform: [Alura - LATAM]
 
 ## Skills
-- **Lenguajes de Programación:** Python, JavaScript
-- **Frameworks y Bibliotecas:** TensorFlow, Scikit-learn,  OpenCV, React.js
-- **Herramientas:** Raspberry Pi, Git
+- **Programming Languages:** Python, JavaScript
+- **Frameworks and Libraries:** TensorFlow, Scikit-learn,  OpenCV, React.js
+- **Tools:** Raspberry Pi, Git
 
 
   
