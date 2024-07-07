@@ -3,7 +3,7 @@
 # ¡Hola! Soy German :)
 
 ## Acerca de mí
-Soy estudiante de Ingeniería Electrónica especializado en Internet de las Cosas (IoT). Actualmente, estoy trabajando en mi tesis sobre Machine Learning en una Raspberry Pi. Me apasiona la innovacion, tecnología y tengo un interés particular en la Inteligencia Artificial y el Diseño Web (front-end).
+Soy estudiante de Ingeniería Electrónica especializado en Internet de las Cosas (IoT). Actualmente, estoy trabajando en mi tesis sobre Machine Learning en una Raspberry Pi. Me apasiona la innovacion, la tecnología y tengo un interés particular en la Inteligencia Artificial y el Diseño Web (front-end).
 
 ## Proyectos Destacados
 - **Tesis de Grado: Machine Learning en Raspberry Pi**
