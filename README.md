@@ -7,7 +7,7 @@ I am a student of Electronic Engineering specialized in Internet of Things (IoT)
 
 
 
+![2291ad742f13e83edbd09c635c28fbcf1fa0630b_00](https://github.com/germanquevedo/germanquevedo/assets/127355727/66c86ec6-68f0-43d4-a75d-803ccf2db7cd)
 
   
 
-file:///home/ger/Pictures/2291ad742f13e83edbd09c635c28fbcf1fa0630b_00.gif
