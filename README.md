@@ -10,3 +10,4 @@ I am a student of Electronic Engineering specialized in Internet of Things (IoT)
 
   
 
+file:///home/ger/Pictures/2291ad742f13e83edbd09c635c28fbcf1fa0630b_00.gif
